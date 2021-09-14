@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003468622987",
+    "project_id": "dakowabooks-ac905",
+    "storage_bucket": "dakowabooks-ac905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003468622987:android:670634473e4535e653588e",
+        "android_client_info": {
+          "package_name": "com.steinacoz.dakowabook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003468622987-tkr3jc9ofvk56ipedj0ojas7n79cvjh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3t4D9P1i2ydlaIFhnGBp90p030bRmhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003468622987-tkr3jc9ofvk56ipedj0ojas7n79cvjh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1003468622987-tkr3jc9ofvk56ipedj0ojas7n79cvjh0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1003468622987</string>
+    <string name="google_api_key" translatable="false">AIzaSyBf3t4D9P1i2ydlaIFhnGBp90p030bRmhk</string>
+    <string name="google_app_id" translatable="false">1:1003468622987:android:670634473e4535e653588e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBf3t4D9P1i2ydlaIFhnGBp90p030bRmhk</string>
+    <string name="google_storage_bucket" translatable="false">dakowabooks-ac905.appspot.com</string>
+    <string name="project_id" translatable="false">dakowabooks-ac905</string>
+</resources>
